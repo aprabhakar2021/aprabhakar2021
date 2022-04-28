@@ -1,2 +1,2 @@
-# mynewrepo
-A repository to learn connecting to GitHub remotly.
+# aprabhakar2021
+A repository to learn GitHub.
